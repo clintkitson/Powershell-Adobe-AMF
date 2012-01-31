@@ -1,0 +1,8 @@
+This set of scripts will allow you to make AMF3 calls directly from Powershell.  
+
+
+
+## load_shift.ps1 - http://huddledmasses.org/powershell-needs-shift-operators/
+## DataConverter.cs - http://www.mono-project.com/Mono_DataConvert (Copyright Novell, from Mono)
+
+--first rev
